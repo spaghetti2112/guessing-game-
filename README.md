@@ -3,6 +3,10 @@
 A simple **number guessing game** built with Flask.  
 You try to guess the secret number (between 1 and 100) chosen randomly by the computer.
 
+
+website:https://guessing-game-tp35.onrender.com 
+
+
 ## 🎮 How to Play
 1. Open the game in your browser.
 2. Enter a number between **1 and 100**.
@@ -14,7 +18,6 @@ You try to guess the secret number (between 1 and 100) chosen randomly by the co
 5. The game tracks how many attempts you made.
 6. Start a new game anytime with the **Reset** button.
 
-website:https://guessing-game-tp35.onrender.com 
 
 ## 🚀 Quickstart (Local)
 
