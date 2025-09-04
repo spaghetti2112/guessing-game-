@@ -14,6 +14,8 @@ You try to guess the secret number (between 1 and 100) chosen randomly by the co
 5. The game tracks how many attempts you made.
 6. Start a new game anytime with the **Reset** button.
 
+website:https://guessing-game-tp35.onrender.com 
+
 ## 🚀 Quickstart (Local)
 
 ```bash
